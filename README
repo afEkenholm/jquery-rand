@@ -1,0 +1,9 @@
+h1. jQuery.rand()
+
+jQuery.rand() is a script that allows you to get any number of random elements from a jQuery set.
+
+Read the article about the script at http://www.afekenholm.se/jquery-rand
+
+h2. Usage
+
+$(".selector").rand(5).doSomething().end();
